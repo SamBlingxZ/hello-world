@@ -1,5 +1,2 @@
 # hello-world
-Just another repository
-
-Texting my hello-world
- i like Node.Js
+Just another repository and another Tech Giant
